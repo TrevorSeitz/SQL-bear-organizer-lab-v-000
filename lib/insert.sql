@@ -1,1 +1,3 @@
-INSERT INTO bears (name, age, breed, net_worth) VALUES ("Maru", 3, "Scottish Fold", 1000000);
+INSERT INTO bears (name, age, gender, color, temperment, alive) VALUES ();
+
+
